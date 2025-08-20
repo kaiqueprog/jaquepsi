@@ -6509,7 +6509,7 @@ body#tinymce{
 @media (max-width: 767px) {
     .conteudo-saiba-mais {
         padding: 20px;
-        max-height: 60vh;
+        max-height: 40vh;
     }
     .conteudo-saiba-mais .fechar {
         right: 15px;

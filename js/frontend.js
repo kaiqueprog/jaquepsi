@@ -331,3 +331,5 @@
 		}
 	}).init()
 }();
+
+const fecharmenu = () => closeAll();
